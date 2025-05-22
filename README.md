@@ -1,4 +1,4 @@
-# Amazon ECS Demo with fullstack app / DevOps practices / Terraform sample
+# Amazon ECS Terraform Template
 
 ## Table of content
 
